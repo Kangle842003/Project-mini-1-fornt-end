@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+:root{
+    --bg-1 : #EFEFEF;
+    --color-text-1 : #BBBBBB;
+    --color-text-2: #232323;
+    --color-icon : #FF8484;
+    --color-button: #F7D9C4;
+    }
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+    background: var(--bg-1);
+}
+a{
+    text-decoration: none;
+}
